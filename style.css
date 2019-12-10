@@ -10,7 +10,8 @@ body {
 }
 
 .grid {
-    max-width: 960px;
+    max-width: 640px;
+    height: 640px;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
